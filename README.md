@@ -1,5 +1,27 @@
-<h1 align="center">Hi 👋, I'm Syed Mohammed Uvais</h1>
-<h3 align="center">A passionate AI&ML Engineer and Web developer from India</h3>
+# 👋 Hi, I'm Syed Mohammed Uvais!
+
+I am an **AI & ML Engineer** and **Web Developer** passionate about building intelligent solutions and dynamic web applications.
+
+## 🚀 Skills
+
+- **Programming:** Python, C++, R, DSA
+- **Web Development:** HTML, CSS, JavaScript
+- **AI & ML:** Machine Learning, Deep Learning
+- **Tools & Frameworks:** TensorFlow, PyTorch, Scikit-Learn, Flask, Django
+
+## 📌 Projects
+
+- 🔹 **[Pick and Place Robot](#)** – Automated robotic arm for object sorting.
+- 🔹 **[JobSphere](#)** – Web platform for workers and job providers.
+- 🔹 **[Store Sales and Profit Analysis](#)** – Data analytics project using Python.
+- 🔹 **[Bluetooth Door Lock](#)** – Smart security system controlled via Bluetooth.
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-mohammed-uvais-513750259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uvais-6&label=Profile%20views&color=0e75b6&style=flat" alt="uvais-6" /> </p>
 
@@ -30,3 +52,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uvais-6&show_icons=true&locale=en" alt="uvais-6" /></p>
 
+
+💡 *Always learning and exploring new technologies!* 🚀
