@@ -30,7 +30,7 @@ I am an **AI & ML Engineer** and **Web Developer** passionate about building int
 
 ## 🚀 Skills
 
-- **Programming:** Python, C++, R, DSA
+- **Programming:** Python, C++, R, DSA, java
 - **Web Development:** HTML, CSS, JavaScript
 - **AI & ML:** Machine Learning, Deep Learning
 - **Tools & Frameworks:** TensorFlow, PyTorch, Scikit-Learn, Flask, Django
