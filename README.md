@@ -20,6 +20,7 @@
 ---
 
 ## 🧑‍💻 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 
 I'm **Syed Mohammed Uvais**, a **B.Tech graduate in Artificial Intelligence & Machine Learning** currently building my skills in **Data Science, Data Analytics, Machine Learning, and AI**.
 
