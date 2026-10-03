@@ -20,7 +20,7 @@
 ---
 
 ## 🧑‍💻 About Me
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW91ZDN1NzJ0ZTFqM3R5czZxazF1a2k1czZoejhjcTh2cnp1cGZpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="320" height = "298" />
 
 I'm **Syed Mohammed Uvais**, a **B.Tech graduate in Artificial Intelligence & Machine Learning** currently building my skills in **Data Science, Data Analytics, Machine Learning, and AI**.
 
@@ -41,6 +41,7 @@ I enjoy working with data from the beginning — from **cleaning and exploring d
 ## 🛠️ My Tech Toolbox
 
 ### 💻 Programming & Data
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjlvM2hyN3QxZWJqOHltdGNjYjYyMXF6dHpscnQ0ZjRsYWw2cXNsbCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/XE90Rm9DzCVfHb7zTe/giphy.gif" width="380" />
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,jupyter,vscode&theme=dark" />
@@ -69,6 +70,7 @@ I enjoy working with data from the beginning — from **cleaning and exploring d
 ## 01 — Customer Churn Prediction
 
 > Machine Learning system that predicts whether a customer is likely to churn.
+> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmIxcDhrbGV0d2lhMG56bjduNGswb2l6eGU2emxiOGlxbGk5MjBibiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KY79V31dNVo52PjP37/giphy.gif" width="380" height = "320" />
 
 **What I worked on**
 
@@ -90,6 +92,7 @@ I enjoy working with data from the beginning — from **cleaning and exploring d
 ## 02 — Heart Disease Prediction
 
 > Machine Learning project for predicting the likelihood of heart disease using patient health information.
+> > <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2djd3d1cjFqOG41ZTZtbng0a3hkbnpxenV0bXYwc25lZzBlOGtweiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9fd5uui6GBCUacg91/giphy.gif" width="420" height = "300" />
 
 **Key areas**
 
